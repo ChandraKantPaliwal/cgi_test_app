@@ -7,10 +7,3 @@
                 </div>
                 <!--END FOOTER-->
             <?php endif; ?>
-            </div>
-            <!--END PAGE WRAPPER-->
-        </div>
-    </div>
-    <?php echo Assets::js(); ?>
-</body>
-</html>

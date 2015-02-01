@@ -18,6 +18,7 @@
         'js/pace.min.js',
         'js/holder.js',
         'js/responsive-tabs.js',
+
         'js/jquery.flot.js',
         'js/jquery.flot.categories.js',
         'js/jquery.flot.pie.js',
@@ -27,6 +28,7 @@
         'js/jquery.flot.stack.js',
         'js/jquery.flot.spline.js',
         'js/zabuto_calendar.min.js',
+        
         'js/index.js',
         'js/highcharts.js',
         'js/data.js',
@@ -168,4 +170,3 @@
             <!--END MODAL CONFIG PORTLET-->
         </div>
         <!--END TOPBAR-->
-        <div id="wrapper">
