@@ -1,0 +1,10 @@
+div.alert{
+background-color: #fafafa;
+color: red;
+padding: 10px;
+text-align: center;
+}
+
+.rememberme{
+	margin-left: 2px;
+}
